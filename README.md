@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+  <span>Tiuko</span><br>
+  <span>Junior Developer</span>
+</h1>
+
+### 👅 Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **Tiuko/Tiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
