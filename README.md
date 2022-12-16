@@ -18,8 +18,7 @@ Hey there, i'm Tiuko 👋
 
 ### Music :
 
-![AppleMusic](https://img.shields.io/badge/AppleMusic-%23D00000.svg?style=for-the-badge&logo=AppleMusic&logoColor=white)
-
+[<img src="https://img.shields.io/badge/AppleMusic-%23D00000.svg?style=for-the-badge&logo=AppleMusic&logoColor=white"/>](https://music.apple.com/profile/Tiuko)
 <!--
 **Tiuko/Tiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
