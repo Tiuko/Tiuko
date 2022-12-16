@@ -14,6 +14,11 @@ Hey there, i'm Tiuko 👋
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Music :
+
+![AppleMusic](https://img.shields.io/badge/AppleMusic-1ED760?style=for-the-badge&logo=AppleMusic&logoColor=white)
 
 <!--
 **Tiuko/Tiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
