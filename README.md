@@ -20,7 +20,7 @@ Hey there, i'm Tiuko 👋
 
 [<img src="https://img.shields.io/badge/AppleMusic-%23D00000.svg?style=for-the-badge&logo=AppleMusic&logoColor=white"/>](https://music.apple.com/profile/Tiuko)
 
-![Tiuko GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiuko&show_icons=true&theme=tokyonight)
+<!--![Tiuko GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiuko&show_icons=true&theme=tokyonight)-->
 
 <!--
 **Tiuko/Tiuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
